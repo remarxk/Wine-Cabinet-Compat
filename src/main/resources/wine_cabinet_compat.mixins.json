@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.remarxk.wine_cabinet_compat.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "wine_cabinet_compat.refmap.json",
+  "plugin": "com.remarxk.wine_cabinet_compat.mixin.MixinPlugin",
+  "mixins": [
+    "kaleidoscope_tavern.BarCabinetBlockEntityRenderMixin",
+    "kaleidoscope_tavern.BarCabinetBlockMixin",
+    "kaleidoscope_tavern.BottleBlockMixin",
+    "kaleidoscope_tavern.DrinkBlockMixin",
+    "youkaisfeasts.BottleBlockMixin",
+    "youkaisfeasts.ShelfRendererMixin",
+    "youkaisfeasts.WineShelfBlockEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

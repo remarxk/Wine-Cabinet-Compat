@@ -1,0 +1,77 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "youkaisfeasts:red_wine_bottle",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:soy_sauce_flask",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:mayonnaise_flask",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:white_wine_bottle",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:burgundy_bottle",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:champagne_bottle",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:van_allen_bottle",
+      "required": false
+    },
+    {
+      "id": "vinery:glowing_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:solaris_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:noir_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:red_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:cherry_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:kelp_cider",
+      "required": false
+    },
+    {
+      "id": "vinery:bottle_mojang_noir",
+      "required": false
+    },
+    {
+      "id": "vinery:clark_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:villagers_fright",
+      "required": false
+    },
+    {
+      "id": "brewery:whiskey_cristelwalker",
+      "required": false
+    },
+    {
+      "id": "brewery:whiskey_ak",
+      "required": false
+    }
+  ]
+}

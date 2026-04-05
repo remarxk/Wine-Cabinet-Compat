@@ -1,0 +1,77 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "kaleidoscope_tavern:vinegar",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:wine",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:ice_wine",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:sakura_wine",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:plum_wine",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:champagne",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:whiskey",
+      "required": false
+    },
+    {
+      "id": "vinery:glowing_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:solaris_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:noir_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:red_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:cherry_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:kelp_cider",
+      "required": false
+    },
+    {
+      "id": "vinery:bottle_mojang_noir",
+      "required": false
+    },
+    {
+      "id": "vinery:clark_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:villagers_fright",
+      "required": false
+    },
+    {
+      "id": "brewery:whiskey_ak",
+      "required": false
+    },
+    {
+      "id": "brewery:whiskey_cristelwalker",
+      "required": false
+    }
+  ]
+}
